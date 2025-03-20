@@ -1,2 +1,4 @@
 squelette-pld-comp/ifcc-test-output/
 squelette-pld-comp/compiler/generated/
+squelette-pld-comp/compiler/build/
+squelette-pld-comp/compiler/ifcc
